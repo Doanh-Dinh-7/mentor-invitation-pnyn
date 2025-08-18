@@ -91,7 +91,7 @@ export default function PythonMentorInvitation() {
               Welcome to TechTonic Share - Guide! 💙
             </div>
             <p className="italic text-xs text-gray-500 mt-6">
-              Xác nhận bằng cách: chụp màn hình và gửi vào Ban Chủ Nhiệm
+              Xác nhận bằng cách: Chụp màn hình và gửi vào Ban Chủ Nhiệm
             </p>
           </CardContent>
         </Card>
